@@ -3,6 +3,10 @@
 	"displayName": "Run Django Server",
 	"description": "Runs Django Server with click",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yourusername/run-django-server.git"
+	},
 	"engines": {
 		"vscode": "^1.97.0"
 	},
